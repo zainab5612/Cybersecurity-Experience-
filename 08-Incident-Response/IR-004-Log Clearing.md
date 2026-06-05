@@ -39,7 +39,7 @@ The Security log recorded that the audit log was cleared.
 
 ## Incident Response
 
-Investigation
+## Investigation
 
 4624 - Successful Logon
 4625 - Failed Logon
