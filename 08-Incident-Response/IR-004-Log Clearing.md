@@ -66,37 +66,15 @@ Disable affected account
 Remove administrative privileges
 Isolate affected system
 
+---
+<img width="1216" height="438" alt="image" src="https://github.com/user-attachments/assets/3109104b-71ec-44c1-8ca8-7c631d155c48" />
 
-
-
-
-
-
-
-
-
+---
 
 **Account Responsible**
 
 ```text
 DESKTOP1\zaina
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
