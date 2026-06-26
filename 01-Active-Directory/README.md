@@ -8,3 +8,9 @@ https://github.com/zainab5612/active-directory-windows11-networking
 
 
 ---
+
+
+https://github.com/zainab5612/windows-server-file-sharing-access-control
+
+
+---
